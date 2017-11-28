@@ -2,7 +2,7 @@
   "views": [
     {
       "location": "/Areas/ExtSPA/Views/Home/ReactOne.cshtml",
-      "content": "@section head  {\r\n    <link rel=\"stylesheet\" href=\"https:\/\/localhost.daplie.me\/global.css\" \/>\r\n    <link rel=\"stylesheet\" href=\"https:\/\/localhost.daplie.me\/bundle.css\" \/>\r\n}\r\n<div id=\"root\"><\/div>  \r\n@section scripts{\r\n    <script src=\"https:\/\/localhost.daplie.me\/bundle.js\"><\/script>\r\n}"
+      "content": "@section head  {\r\n  <script src=\"https://code.jquery.com/jquery-3.2.1.min.js\"></script><script src=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js\"></script> <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css\"> <link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https:\/\/localhost.daplie.me\/global.css\" \/>\r\n    <link rel=\"stylesheet\" href=\"https:\/\/localhost.daplie.me\/bundle.css\" \/>\r\n}\r\n<div id=\"root\"><\/div>  \r\n@section scripts{\r\n    <script src=\"https:\/\/localhost.daplie.me\/bundle.js\"><\/script>\r\n}"
     }
   ]
 }

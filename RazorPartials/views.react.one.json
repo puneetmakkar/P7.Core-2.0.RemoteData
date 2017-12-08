@@ -2,7 +2,7 @@
   "views": [
     {
       "location": "/Areas/ExtSPA/Views/Home/ReactOne.cshtml",
-      "content": "<iframe src=\"https://localhost.daplie.me\" width=\"100%\" height=\"90%\" frameBorder=\"0\">Browser not compatible</iframe>"
+      "content": "<div style=\"display:flex;min-height:95vh;\"><iframe src=\"https://localhost.daplie.me\" width=\"100%\" height=\"90%\" frameBorder=\"0\">Browser not compatible</iframe></div>"
     }
   ]
 }

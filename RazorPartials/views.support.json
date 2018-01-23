@@ -1,8 +1,7 @@
 {
-  "views": [
-    {
-      "location": "/Areas/ExtSPA/Views/Home/Support.cshtml",
-      "content": "<div>\nWelcome to Support good sir!\n</div>"
-    }
-  ]
+	"views": [{
+		"location": "/Areas/ExtSPA/Views/Home/Support.cshtml",
+		"content": "<div>\nWelcome to Support good sir!\n</div>",
+		"contentUrl": "https://raw.githubusercontent.com/ghstahl/P7.Core-2.0.RemoteData/master/RazorPartials/Support.cshtml"
+	}]
 }

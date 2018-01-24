@@ -1,22 +1,38 @@
 {
-    "$id": "http://example.com/example.json",
-    "type": "object",
-    "definitions": {},
-    "$schema": "http://json-schema.org/draft-06/schema#",
-    "properties": {
-      "files": {
-        "$id": "/properties/files",
-        "type": "array",
-        "items": {
-          "$id": "/properties/files/items",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "properties": {
+    "metaData": {
+      "$id": "/properties/metaData",
+      "type": "object",
+      "properties": {
+        "timeStamp": {
+          "$id": "/properties/metaData/properties/timeStamp",
           "type": "string",
-          "title": "The 0 Schema",
+          "title": "The Timestamp Schema",
           "description": "An explanation about the purpose of this instance.",
           "default": "",
           "examples": [
-            "wwwroot/dist/0.js"
+            "01/24/2018 12:00:00 +00:00"
           ]
         }
       }
+    },
+    "files": {
+      "$id": "/properties/files",
+      "type": "array",
+      "items": {
+        "$id": "/properties/files/items",
+        "type": "string",
+        "title": "The 0 Schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "wwwroot/dist/0.js"
+        ]
+      }
     }
   }
+}

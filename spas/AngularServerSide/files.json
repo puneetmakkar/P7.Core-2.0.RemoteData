@@ -1,4 +1,7 @@
 {
+    "metaData":{
+        "timeStamp":"01/24/2018 12:00:00 +00:00"
+    },
     "files":[
         "wwwroot/dist/0.js",
         "wwwroot/dist/0.js.map",

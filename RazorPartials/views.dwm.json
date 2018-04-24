@@ -2,7 +2,7 @@
   "views": [
     {
       "location": "/Areas/ExtSPA/Views/Home/dwm.cshtml",
-      "content": "<script src=\"https://cdn.optimizely.com/js/10162404162.js\"></script> <script src=\"https://dev1-fe-dsp.dev.aws.lifelock.com/testiframelisteners-dev.js\"></script><div id=\"nslAccessCodeUrl\" nslAccessCodeUrl=\"https://www.symantec.com/\"> </div> <div class=\"main\"> <div class=\"header\"> </div> <div class=\"content\"> <iframe src=\"\" height=\"700px\" width=\"100%\" allowpaymentrequest allowfullscreen=\"allowfullscreen\" frameborder=\"0\" id=\"dspIframe\"> Please upgrade to a browser that supports iframes.  </iframe> </div></div> "
+      "content": "<script src=\"https://cdn.optimizely.com/js/10162404162.js\"></script> <script src=\"https://dev1-fe-dwm.dev.aws.lifelock.com/testiframelisteners-dev.js\"></script><div id=\"nslAccessCodeUrl\" nslAccessCodeUrl=\"https://www.symantec.com/\"> </div> <div class=\"main\"> <div class=\"header\"> </div> <div class=\"content\"> <iframe src=\"\" height=\"700px\" width=\"100%\" allowpaymentrequest allowfullscreen=\"allowfullscreen\" frameborder=\"0\" id=\"dspIframe\"> Please upgrade to a browser that supports iframes.  </iframe> </div></div> "
     }
   ]
 }

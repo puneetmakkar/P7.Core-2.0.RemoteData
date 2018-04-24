@@ -1,0 +1,29 @@
+{
+    "metaData":{
+        "timeStamp":"01/24/2018 12:00:00 +00:00"
+    },
+    "files":[
+        "wwwroot/dist/0.js",
+        "wwwroot/dist/0.js.map",
+        "wwwroot/dist/aaaaaaaaaaaaa",
+        "wwwroot/dist/448c34a56d699c29117adc64c43affeb.woff2",
+        "wwwroot/dist/89889688147bd7575d6327160d64e760.svg",
+        "wwwroot/dist/e18bbf611f2a2e43afc071aa2f4e1512.ttf",
+        "wwwroot/dist/f4769f9bdb7466be65088239c12046d1.eot",
+        "wwwroot/dist/fa2772327f55d8198301fdb8bcfc8158.woff",
+        "wwwroot/dist/main-client.js",
+        "wwwroot/dist/main-client.js.map",
+        "wwwroot/dist/main-server.js",
+        "wwwroot/dist/vendor.js",
+        "wwwroot/dist/vendor-manifest.json",
+        "ClientApp/dist/0.js",
+        "ClientApp/dist/448c34a56d699c29117adc64c43affeb.woff2",
+        "ClientApp/dist/89889688147bd7575d6327160d64e760.svg",
+        "ClientApp/dist/e18bbf611f2a2e43afc071aa2f4e1512.ttf",
+        "ClientApp/dist/f4769f9bdb7466be65088239c12046d1.eot",
+        "ClientApp/dist/fa2772327f55d8198301fdb8bcfc8158.woff",
+        "ClientApp/dist/main-server.js",
+        "ClientApp/dist/vendor.js",
+        "ClientApp/dist/vendor-manifest.json"
+    ]
+}

@@ -1,9 +1,9 @@
 {
   "views": [
     {
-      "location": "/Areas/ExtSPA/Views/Home/lifelock.cshtml",
-      "logoutUrl": "https://llmemex-api-dev.norton.com/v1/logout",
-      "content": "<link rel=\"preload\" href=\"https://lldsp-dev.norton.com/iframeListeners.js\" as=\"script\"> <script src=\"https://cdn.optimizely.com/js/10162404162.js\"></script> <script src=\"https://lldsp-dev.norton.com/iframeListeners.js\"></script><script>llLoadSpa(\"https://lldsp-dev.norton.com\");</script><div class=\"main\"> <div class=\"header\"> </div> <div class=\"content\"> <iframe src=\"\" height=\"700px\" width=\"100%\" allowpaymentrequest allowfullscreen=\"allowfullscreen\" frameborder=\"0\" id=\"dspIframe\" title=\"DSP Iframe\"> Please upgrade to a browser that supports iframes.  </iframe> </div></div> "
+      "location": "/Areas/ExtSPA/Views/Home/lifelockint.cshtml",
+      "logoutUrl": "https://llmemex-api-int.norton.com/v1/logout",
+      "content": "<link rel=\"preload\" href=\"https://lldsp-int.norton.com/iframeListeners.js\" as=\"script\"> <script src=\"https://cdn.optimizely.com/js/10162404162.js\"></script> <script src=\"https://lldsp-int.norton.com/iframeListeners.js\"></script><script>llLoadSpa(\"https://lldsp-int.norton.com\");</script><div class=\"main\"> <div class=\"header\"> </div> <div class=\"content\"> <iframe src=\"\" height=\"700px\" width=\"100%\" allowpaymentrequest allowfullscreen=\"allowfullscreen\" frameborder=\"0\" id=\"dspIframe\" title=\"DSP Iframe\"> Please upgrade to a browser that supports iframes.  </iframe> </div></div> "
     }
   ]
 }
